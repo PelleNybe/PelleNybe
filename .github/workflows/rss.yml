@@ -1,0 +1,16 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    - cron: '0 * * * *' # Körs en gång i timmen
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://coraxcolab.com/feed.xml"
+          max_post_count: 5
