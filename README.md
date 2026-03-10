@@ -49,6 +49,17 @@ Currently, I am the Founder and CEO of **Corax CoLAB**. My daily work revolves a
 
 ---
 
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
+
+### 📰 Senaste nytt från Corax CoLAB
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 Let's connect and build the future of GreenTech:
 
 <a href="https://coraxcolab.com" target="_blank"><img src="https://img.shields.io/badge/Corax%20CoLAB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
