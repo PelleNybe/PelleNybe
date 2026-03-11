@@ -1,24 +1,56 @@
 ## 👋 Hi! I'm Pelle Nyberg
 
+<p align="left">
+  <a href="https://github.com/PelleNybe">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E8B57&center=false&vCenter=true&width=500&lines=Deep+Tech+Developer;AI+%26+Robotics+Innovator;Founder+%26+CEO+at+Corax+CoLAB" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=PelleNybe&color=2E8B57&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&logo=greensock&logoColor=white"/>
-</p>
-
-I am a Deep Tech Developer and AI & Robotics Innovator with a unique "full-stack" approach to the physical environment. My work combines strategic vision with hands-on engineering, operating at the intersection of horticulture and high-tech to harmonize the natural world with the digital one. 
+I am a Deep Tech Developer and AI & Robotics Innovator with a unique "full-stack" approach to the physical environment. My work combines strategic vision with hands-on engineering, operating at the intersection of horticulture and high-tech to harmonize the natural world with the digital one.
 
 Currently, I am the Founder and CEO of **Corax CoLAB**. My daily work revolves around Intelligent Automation, specifically developing:
 * **GAP (Green Automated Process):** A decentralized IoT platform integrating sensors and AI models to optimize resource flows.
 * **GAPbot:** Autonomous hexapod robots designed to navigate, analyze, and act in unstructured and challenging terrains.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages**
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/></a>
+</p>
+
+**Hardware & Robotics**
+<p align="left">
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
+  <a href="https://docs.ros.org/en/humble/" target="_blank"><img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/></a>
+</p>
+
+**Concepts & Domains**
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&logo=greensock&logoColor=white"/>
+</p>
+
+**OS**
+<p align="left">
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+| Project | Description |
+| :---: | :--- |
+| **[GAP Platform](https://coraxcolab.com)** | A decentralized IoT platform integrating sensors and AI models to optimize resource flows. |
+| **[GAPbot](https://coraxcolab.com)** | Autonomous hexapod robots designed to navigate, analyze, and act in unstructured terrains. |
 
 ---
 
@@ -62,8 +94,10 @@ Currently, I am the Founder and CEO of **Corax CoLAB**. My daily work revolves a
 
 ---
 
-Let's connect and build the future of GreenTech:
+### 🌐 Let's Connect
 
-<a href="https://coraxcolab.com" target="_blank"><img src="https://img.shields.io/badge/Corax%20CoLAB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/pellenyberg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://coraxgardening.se" target="_blank"><img src="https://img.shields.io/badge/Corax%20Gardening-2E8B57?style=for-the-badge&logo=treehouse&logoColor=white" /></a>
+<p align="center">
+  <a href="https://coraxcolab.com" target="_blank"><img src="https://img.shields.io/badge/Corax%20CoLAB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pellenyberg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://coraxgardening.se" target="_blank"><img src="https://img.shields.io/badge/Corax%20Gardening-2E8B57?style=for-the-badge&logo=treehouse&logoColor=white" /></a>
+</p>
