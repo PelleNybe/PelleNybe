@@ -114,7 +114,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PelleNybe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="48%" />
 </p>
 
 ---
@@ -127,10 +132,20 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+</p>
+
 ---
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
+
+---
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
