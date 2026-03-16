@@ -151,9 +151,9 @@
 
 ### 📰 Senaste nytt från Corax CoLAB
 <!-- BLOG-POST-LIST:START -->
-- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/aktuellt/nyheter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
-- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/aktuellt/nyheter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
-- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/aktuellt/nyheter/svarmens-logik-decentraliserad-intelligens)
+- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/insikter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
+- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/insikter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
+- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/insikter/svarmens-logik-decentraliserad-intelligens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
