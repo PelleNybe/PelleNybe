@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20Pelle%20Nyberg&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Deep%20Tech%20Developer%20%7C%20AI%20%26amp;%20Robotics%20Innovator&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20Pelle%20Nyberg&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Deep%20Tech%20Developer%20%7C%20AI%20%26%20Robotics%20Innovator&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -126,14 +126,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
 </p>
 
 ---
@@ -151,9 +151,9 @@
 
 ### 📰 Senaste nytt från Corax CoLAB
 <!-- BLOG-POST-LIST:START -->
-- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/insikter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
-- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/insikter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
-- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/insikter/svarmens-logik-decentraliserad-intelligens)
+- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/aktuellt/nyheter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
+- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/aktuellt/nyheter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
+- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/aktuellt/nyheter/svarmens-logik-decentraliserad-intelligens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -162,6 +162,6 @@
 
 <p align="center">
   <a href="https://coraxcolab.com" target="_blank"><img src="https://img.shields.io/badge/Corax%20CoLAB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pellenyberg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pellenyberg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://coraxgardening.se" target="_blank"><img src="https://img.shields.io/badge/Corax%20Gardening-2E8B57?style=for-the-badge&logo=treehouse&logoColor=white" /></a>
 </p>
