@@ -154,6 +154,7 @@
 - [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/insikter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
 - [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/insikter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
 - [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/insikter/svarmens-logik-decentraliserad-intelligens)
+- [Den tysta revolutionen: Varför Edge AI är enda vägen framåt i naturen](https://coraxcolab.com/sv/insikter/tysta-revolutionen-edge-ai-naturen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
