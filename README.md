@@ -145,6 +145,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/coraxgs/coraxgs.github.io/pull/8) in [coraxgs/coraxgs.github.io](https://github.com/coraxgs/coraxgs.github.io)
+2. 💪 Opened PR [#8](https://github.com/coraxgs/coraxgs.github.io/pull/8) in [coraxgs/coraxgs.github.io](https://github.com/coraxgs/coraxgs.github.io)
+3. 🎉 Merged PR [#10](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB/pull/10) in [coraxgs/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#10](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB/pull/10) in [coraxgs/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#40](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/40) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
