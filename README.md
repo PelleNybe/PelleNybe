@@ -145,11 +145,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/50) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#50](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/50) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#49](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/49) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#49](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/49) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#48](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/48) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#11](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB/pull/11) in [coraxgs/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#11](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB/pull/11) in [coraxgs/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#8](https://github.com/coraxgs/coraxgs.github.io/pull/8) in [coraxgs/coraxgs.github.io](https://github.com/coraxgs/coraxgs.github.io)
+4. 💪 Opened PR [#8](https://github.com/coraxgs/coraxgs.github.io/pull/8) in [coraxgs/coraxgs.github.io](https://github.com/coraxgs/coraxgs.github.io)
+5. 🎉 Merged PR [#10](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB/pull/10) in [coraxgs/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/coraxgs/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
