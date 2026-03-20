@@ -15,7 +15,9 @@
 <br/>
 
 <div align="center">
+  <p align="center">
   <img src="https://i.giphy.com/media/3oKIPnAiaw4vQ35Xb2/giphy.gif" width="200" align="right" alt="Robotics GIF">
+  </p> 
   <p align="left">
     I am a Deep Tech Developer and AI & Robotics Innovator with a unique "full-stack" approach to the physical environment. My work combines strategic vision with hands-on engineering, operating at the intersection of horticulture and high-tech to harmonize the natural world with the digital one.
   </p>
