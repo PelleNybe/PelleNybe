@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi!%20I%27m%20Pelle%20Nyberg&amp;fontSize=60&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Deep%20Tech%20Developer%20%7C%20AI%20%26%20Robotics%20Innovator&amp;descAlignY=55&amp;descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi!%20I%27m%20Pelle%20Nyberg&amp;fontSize=60&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Deep%20Tech%20Developer%20%7C%20AI%20and%20Robotics%20Innovator&amp;descAlignY=55&amp;descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://i.giphy.com/media/3oKIPnAiaw4vQ35Xb2/giphy.gif" width="200" align="center" alt="Robotics GIF">
+  <img src="https://media.giphy.com/media/2Faz2FksWz8v5A7oU/giphy.gif" width="200" align="center" alt="Robotics GIF">
   </p> 
+  <h3 align="left">
+    I am a <b>Deep Tech Developer</b> and <b>AI & Robotics Innovator</b> with a unique <em>"full-stack"</em> approach to the physical environment. My work combines strategic vision with hands-on engineering, operating at the intersection of horticulture and high-tech to harmonize the natural world with the digital one.
+  </h3>
   <p align="left">
-    I am a Deep Tech Developer and AI & Robotics Innovator with a unique "full-stack" approach to the physical environment. My work combines strategic vision with hands-on engineering, operating at the intersection of horticulture and high-tech to harmonize the natural world with the digital one.
-  </p>
-  <p align="left">
-    Currently, I am the Founder and CEO of **Corax CoLAB**. My daily work revolves around Intelligent Automation, specifically developing:
+    Currently, I am the Founder and CEO of <a href="https://coraxcolab.com"><b>Corax CoLAB</b></a>. My daily work revolves around Intelligent Automation, specifically developing:
     <br>
     🌱 <b>GAP (Green Automated Process):</b> A decentralized IoT platform integrating sensors and AI models to optimize resource flows.
     <br>
