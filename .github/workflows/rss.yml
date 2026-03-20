@@ -14,3 +14,4 @@ jobs:
         with:
           feed_list: "https://coraxcolab.com/feed.xml"
           max_post_count: 5
+          item_exec: "post.url = post.url.replace('/insikter/', '/aktuellt/artiklar/');"

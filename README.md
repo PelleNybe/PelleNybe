@@ -109,7 +109,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=PelleNybe&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=PelleNybe&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -126,9 +126,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -156,10 +156,8 @@
 
 ### 📰 Senaste nytt från Corax CoLAB
 <!-- BLOG-POST-LIST:START -->
-- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/insikter/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
-- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/insikter/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
-- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/insikter/svarmens-logik-decentraliserad-intelligens)
-- [Den tysta revolutionen: Varför Edge AI är enda vägen framåt i naturen](https://coraxcolab.com/sv/insikter/tysta-revolutionen-edge-ai-naturen)
+- [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/aktuellt/artiklar/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
+- [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/aktuellt/artiklar/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
