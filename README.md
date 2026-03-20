@@ -12,6 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=PelleNybe&amp;color=2E8B57&amp;style=flat-square&amp;label=Profile+Views&amp;base=1000" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/PelleNybe?tab=followers"><img src="https://img.shields.io/github/followers/PelleNybe?label=Followers&style=flat-square&color=2E8B57" alt="GitHub followers" /></a>
+  <a href="https://github.com/PelleNybe?tab=stars"><img src="https://img.shields.io/github/stars/PelleNybe?style=flat-square&color=2E8B57&label=Stars" alt="Total GitHub Stars" /></a>
+</p>
+
+
 <br/>
 
 <div align="center">
@@ -74,6 +80,15 @@
   <br>
   An innovative server solution tailored for real-time cryptocurrency integrations and MCP architectures. Explore the <a href="https://cryptop.coraxcolab.com">live project here</a>.
 </details>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PelleNybe&repo=Crypto-MCP-Server---by-Corax-CoLAB&theme=tokyonight&show_icons=true" alt="Crypto MCP Server Repo" />
+  </a>
+</p>
+
 
 ---
 
@@ -212,7 +227,18 @@
 
 <div align="center">
   <p>
-    If you find my projects helpful or interesting, please consider giving them a <b>star</b> ⭐!
+    If you find my projects helpful or interesting, please consider giving them a <b>star</b> ⭐, <b>fork</b> 🍴, or <b>watch</b> 👀! Your support is highly appreciated and helps drive future innovations.
+  </p>
+  <p align="center">
+    <a href="https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/stargazers"><img src="https://img.shields.io/github/stars/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB?style=for-the-badge&color=2E8B57" alt="Star Crypto-MCP-Server" /></a>
+    <a href="https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/network/members"><img src="https://img.shields.io/github/forks/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB?style=for-the-badge&color=2E8B57" alt="Fork Crypto-MCP-Server" /></a>
+    <a href="https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/watchers"><img src="https://img.shields.io/github/watchers/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB?style=for-the-badge&color=2E8B57" alt="Watch Crypto-MCP-Server" /></a>
+  </p>
+  <br>
+  <p align="center">
+    <b>💖 Support my work:</b><br><br>
+    <a href="https://github.com/sponsors/PelleNybe"><img src="https://img.shields.io/badge/Sponsor_Me-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me on GitHub" /></a>
+    <a href="https://www.buymeacoffee.com/PelleNybe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 140px !important;border-radius:0.5rem" ></a>
   </p>
   <p>
     Building the future of physical automation requires community. Feel free to <b>fork</b> 🍴 open-source repositories to experiment or contribute. Let's innovate together!
