@@ -173,3 +173,11 @@
   <a href="https://www.linkedin.com/in/pellenyberg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
   <a href="https://coraxgardening.se" target="_blank"><img src="https://img.shields.io/badge/Corax%20Gardening-2E8B57?style=for-the-badge&amp;logo=treehouse&amp;logoColor=white" /></a>
 </p>
+
+---
+
+### 💖 Support & Contributions
+
+If you find my projects helpful or interesting, please consider giving them a **star** ⭐! It helps others discover the work and motivates me to keep building.
+
+Feel free to **fork** 🍴 my open-source repositories if you'd like to experiment or contribute. If you want to stay updated on my latest work, consider **watching** 👀 my repositories or following me here on GitHub.
