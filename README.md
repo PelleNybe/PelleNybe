@@ -147,11 +147,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/PelleNybe/PelleNybe/pull/8) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
-2. 🎉 Merged PR [#9](https://github.com/PelleNybe/coraxgs.github.io/pull/9) in [PelleNybe/coraxgs.github.io](https://github.com/PelleNybe/coraxgs.github.io)
-3. 🎉 Merged PR [#5](https://github.com/PelleNybe/crypto-momentum-detector/pull/5) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 💪 Opened PR [#8](https://github.com/PelleNybe/PelleNybe/pull/8) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
-5. 💪 Opened PR [#9](https://github.com/PelleNybe/coraxgs.github.io/pull/9) in [PelleNybe/coraxgs.github.io](https://github.com/PelleNybe/coraxgs.github.io)
+1. 🎉 Merged PR [#10](https://github.com/PelleNybe/PelleNybe/pull/10) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
+2. 💪 Opened PR [#10](https://github.com/PelleNybe/PelleNybe/pull/10) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
+3. 🎉 Merged PR [#14](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/14) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#14](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/14) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#13](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/13) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
