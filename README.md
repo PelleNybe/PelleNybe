@@ -204,11 +204,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/PelleNybe/crypto-momentum-detector/pull/17) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-2. 💪 Opened PR [#17](https://github.com/PelleNybe/crypto-momentum-detector/pull/17) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-3. 🎉 Merged PR [#16](https://github.com/PelleNybe/crypto-momentum-detector/pull/16) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 💪 Opened PR [#16](https://github.com/PelleNybe/crypto-momentum-detector/pull/16) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-5. 🎉 Merged PR [#15](https://github.com/PelleNybe/crypto-momentum-detector/pull/15) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+1. 🎉 Merged PR [#76](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/76) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+2. 🎉 Merged PR [#18](https://github.com/PelleNybe/pellenybe.github.io/pull/18) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+3. 💪 Opened PR [#76](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/76) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+4. 💪 Opened PR [#18](https://github.com/PelleNybe/pellenybe.github.io/pull/18) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+5. 🎉 Merged PR [#27](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/27) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
