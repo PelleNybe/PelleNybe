@@ -5,22 +5,27 @@ on:
     - cron: "15 0 * * *" # Körs varje natt 00:15
   workflow_dispatch: # Låter dig köra skriptet manuellt
 
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: main
-          build_dir: dist
-          keep_history: true
           commit_message: "generate snake animation"
+          branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

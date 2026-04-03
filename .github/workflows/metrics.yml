@@ -1,22 +1,29 @@
-name: Waka Readme
+name: WakaTime Metrics
 
 on:
   schedule:
-    # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update WakaTime Metrics in README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
