@@ -204,11 +204,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/41) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#39](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/39) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#40](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/40) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#41](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/41) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 💪 Opened PR [#40](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/40) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#42](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/42) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#42](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/42) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#21](https://github.com/PelleNybe/crypto-momentum-detector/pull/21) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+4. 💪 Opened PR [#16](https://github.com/PelleNybe/PelleNybe/pull/16) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
+5. 💪 Opened PR [#21](https://github.com/PelleNybe/pellenybe.github.io/pull/21) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
 <!--END_SECTION:activity-->
 
 ---
