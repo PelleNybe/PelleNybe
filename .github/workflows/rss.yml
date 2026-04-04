@@ -4,12 +4,19 @@ on:
     - cron: '0 * * * *' # Körs en gång i timmen
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://coraxcolab.com/feed.xml"

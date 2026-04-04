@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PelleNybe&amp;color=2E8B57&amp;style=flat-square&amp;label=Profile+Views&amp;base=1000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PelleNybe&amp;color=2E8B57&amp;style=for-the-badge&amp;label=Profile+Views&amp;base=1000" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/PelleNybe?tab=followers"><img src="https://img.shields.io/github/followers/PelleNybe?label=Followers&style=flat-square&color=2E8B57" alt="GitHub followers" /></a>
-  <a href="https://github.com/PelleNybe?tab=stars"><img src="https://img.shields.io/github/stars/PelleNybe?style=flat-square&color=2E8B57&label=Stars" alt="Total GitHub Stars" /></a>
+  <a href="https://github.com/PelleNybe?tab=followers"><img src="https://img.shields.io/github/followers/PelleNybe?label=Followers&style=for-the-badge&color=2E8B57" alt="GitHub followers" /></a>
+  <a href="https://github.com/PelleNybe?tab=stars"><img src="https://img.shields.io/github/stars/PelleNybe?style=for-the-badge&color=2E8B57&label=Stars" alt="Total GitHub Stars" /></a>
 </p>
 
 
@@ -114,50 +114,58 @@
   <summary><b>🔍 Detailed Breakdown</b></summary>
   <br>
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white"/>
-</p>
-
-**AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
-</p>
-
-**Hardware, IoT & Robotics**
-<p align="left">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&amp;logo=ros&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&amp;logo=platformio&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
-</p>
-
-**Tools & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white"/>
-</p>
-
-**Concepts & Domains**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&amp;logo=greensock&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robotics-FF5722?style=for-the-badge&amp;logo=robot&amp;logoColor=white"/>
-</p>
+<table align="center" style="width: 100%;">
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hardware, IoT & Robotics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&amp;logo=ros&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&amp;logo=platformio&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Concepts & Domains</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&amp;logo=greensock&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Robotics-FF5722?style=for-the-badge&amp;logo=robot&amp;logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -169,15 +177,40 @@
   <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=PelleNybe&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=tokyonight&amp;hide_border=true" width="48%" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder=true" width="48%" />
-</p>
+<table align="center" style="border:none; width: 100%;">
+  <tr>
+    <td align="center" width="50%" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" width="100%" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td align="center" width="50%" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=default&amp;hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=tokyonight&amp;hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=default&amp;hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="GitHub Streak" />
+      </picture>
+    </td>
+    <td align="center" width="50%" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default&amp;hideBorder=true">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder=true" width="100%" alt="Jokes Card" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -239,12 +272,16 @@
   <p align="center">
     <b>💖 Support my work:</b><br><br>
     <a href="https://github.com/sponsors/PelleNybe"><img src="https://img.shields.io/badge/Sponsor_Me-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me on GitHub" /></a>
-    <a href="https://www.buymeacoffee.com/PelleNybe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 140px !important;border-radius:0.5rem" ></a>
+    <a href="https://buymeacoffee.com/PelleNybe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 140px !important;border-radius:0.5rem" ></a>
   </p>
   <p>
     Building the future of physical automation requires community. Feel free to <b>fork</b> 🍴 open-source repositories to experiment or contribute. Let's innovate together!
   </p>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=2E8B57&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22+-+Alan+Kay;%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22+-+Arthur+C.+Clarke;%22Hardware+eventually+fails.+Software+eventually+works.%22+-+Michael+Sinz" alt="Typing SVG Quote" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=100&amp;section=footer" width="100%" />
