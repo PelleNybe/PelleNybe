@@ -237,11 +237,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/56) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#55](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/55) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 💪 Opened PR [#55](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/55) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 🎉 Merged PR [#54](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/54) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 💪 Opened PR [#54](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/54) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#59](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/59) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#59](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/59) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#58](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/58) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#58](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/58) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#17](https://github.com/PelleNybe/PelleNybe/pull/17) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
 <!--END_SECTION:activity-->
 
 ---
