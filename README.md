@@ -237,11 +237,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/59) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#59](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/59) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#58](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/58) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#58](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/58) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#17](https://github.com/PelleNybe/PelleNybe/pull/17) in [PelleNybe/PelleNybe](https://github.com/PelleNybe/PelleNybe)
+1. 💪 Opened PR [#24](https://github.com/PelleNybe/crypto-momentum-detector/pull/24) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+2. 🎉 Merged PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 💪 Opened PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+4. 🚀 Published release [v1.0.0: The Autonomous Hedge Fund Orchestrator Update](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/releases/tag/v1.0.0) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#62](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/62) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
