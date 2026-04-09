@@ -237,11 +237,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/PelleNybe/crypto-momentum-detector/pull/24) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-2. 🎉 Merged PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-3. 💪 Opened PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-4. 🚀 Published release [v1.0.0: The Autonomous Hedge Fund Orchestrator Update](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/releases/tag/v1.0.0) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#62](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/62) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 💪 Opened PR [#25](https://github.com/PelleNybe/crypto-momentum-detector/pull/25) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+2. 🎉 Merged PR [#24](https://github.com/PelleNybe/crypto-momentum-detector/pull/24) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+3. 💪 Opened PR [#24](https://github.com/PelleNybe/crypto-momentum-detector/pull/24) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+4. 🎉 Merged PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+5. 💪 Opened PR [#80](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/80) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
 <!--END_SECTION:activity-->
 
 ---
