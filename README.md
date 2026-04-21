@@ -250,9 +250,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Utvecklingen av robotik, AI och edge-teknik: Varför Corax CoLAB valde en hexapod](https://coraxcolab.com/sv/aktuellt/artiklar/utvecklingen-robotik-ai-edge-corax-colab-hexapod)
 - [Självläkande Hexapoder &amp; Autonom Cyberfysisk Infrastruktur: Corax CoLABs Vision](https://coraxcolab.com/sv/aktuellt/artiklar/sjalvlakande-hexapoder-autonom-infrastruktur-corax-colab)
+- [Edge AI och Molnets Begränsningar i Cyberfysiska System: En Djupgående Analys av Autonom Intelligens](https://coraxcolab.com/sv/aktuellt/artiklar/edge-ai-molnets-begransningar-cyberfysiska-system)
 - [Introduktion till Modern Robotik: Från Molnet till Markens Kant](https://coraxcolab.com/sv/aktuellt/artiklar/Introduktion-till-Modern-Robotik-Fran-Molnet-till-Markens-Kant)
 - [The Full-Stack of Matter – Ingenjörskonst för en Ostrukturerad Värld](https://coraxcolab.com/sv/aktuellt/artiklar/the-full-stack-of-matter-ingenjorskonst-ostrukturerad-varld)
-- [Svärmens Logik – Decentraliserad Intelligens och Framtidens Arbetsstyrka](https://coraxcolab.com/sv/aktuellt/artiklar/svarmens-logik-decentraliserad-intelligens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
