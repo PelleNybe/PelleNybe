@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/87) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#92](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/92) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 💪 Opened PR [#92](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/92) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 🎉 Merged PR [#91](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/91) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#90](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/90) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 💪 Opened PR [#93](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/93) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#87](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/87) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#92](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/92) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#92](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/92) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#91](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/91) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
