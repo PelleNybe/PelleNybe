@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/PelleNybe/pellenybe.github.io/pull/31) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-2. 💪 Opened PR [#31](https://github.com/PelleNybe/pellenybe.github.io/pull/31) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-3. 🎉 Merged PR [#30](https://github.com/PelleNybe/pellenybe.github.io/pull/30) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-4. 🎉 Merged PR [#114](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/114) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 💪 Opened PR [#114](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/114) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 💪 Opened PR [#118](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/118) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#115](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/115) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#117](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/117) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 🎉 Merged PR [#116](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/116) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 💪 Opened PR [#117](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/117) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
