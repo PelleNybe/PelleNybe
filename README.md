@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2E8B57,005C8A,5A2B93&amp;height=250&amp;section=header&amp;text=Welcome%20to%20my%20Profile!&amp;fontSize=60&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Pelle%20Nyberg%20-%20Deep%20Tech%20Developer%20%7C%20AI%20and%20Robotics%20Innovator&amp;descAlignY=55&amp;descAlign=50" alt="Capsule Render" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2E8B57,005C8A,5A2B93&amp;height=250&amp;section=header&amp;text=Welcome%20to%20my%20Profile!&amp;fontSize=60&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Pelle%20Nyberg%20-%20Deep%20Tech%20Developer%20%7C%20AI%20and%20Robotics%20Innovator&amp;descAlignY=55&amp;descAlign=50" alt="Capsule Render" width="100%" loading="lazy" />
 </p>
 
 <p align="center">
   <a href="https://github.com/PelleNybe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=2E8B57&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Founder+%26+CEO+at+Corax+CoLAB;Intelligent+Automation;Harmonizing+Nature+with+Tech;Full-Stack+Hardware+%26+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=2E8B57&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Founder+%26+CEO+at+Corax+CoLAB;Intelligent+Automation;Harmonizing+Nature+with+Tech;Full-Stack+Hardware+%26+Software" alt="Typing SVG" loading="lazy" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PelleNybe&amp;color=2E8B57&amp;style=for-the-badge&amp;label=Profile+Views&amp;base=1000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PelleNybe&amp;color=2E8B57&amp;style=for-the-badge&amp;label=Profile+Views&amp;base=1000" alt="Profile Views" loading="lazy" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/PelleNybe?tab=followers"><img src="https://img.shields.io/github/followers/PelleNybe?label=Followers&amp;style=for-the-badge&amp;color=2E8B57" alt="GitHub followers" /></a>
-  <a href="https://github.com/PelleNybe?tab=stars"><img src="https://img.shields.io/github/stars/PelleNybe?style=for-the-badge&amp;color=2E8B57&amp;label=Stars" alt="Total GitHub Stars" /></a>
+  <a href="https://github.com/PelleNybe?tab=followers"><img src="https://img.shields.io/github/followers/PelleNybe?label=Followers&amp;style=for-the-badge&amp;color=2E8B57" alt="GitHub followers" loading="lazy" /></a>
+  <a href="https://github.com/PelleNybe?tab=stars"><img src="https://img.shields.io/github/stars/PelleNybe?style=for-the-badge&amp;color=2E8B57&amp;label=Stars" alt="Total GitHub Stars" loading="lazy" /></a>
 </p>
 
 <br/>
@@ -34,9 +34,9 @@
 <br clear="both"/>
 
 <p align="center">
-  <a href="https://github.com/PelleNybe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" /></a>
-  <a href="https://www.linkedin.com/in/pellenyberg/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" /></a>
-  <a href="https://pellenybe.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&amp;logo=web&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" /></a>
+  <a href="https://github.com/PelleNybe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Profile" loading="lazy" /></a>
+  <a href="https://www.linkedin.com/in/pellenyberg/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Profile" loading="lazy" /></a>
+  <a href="https://pellenybe.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&amp;logo=web&amp;logoColor=white" alt="Portfolio Website" loading="lazy" /></a>
 </p>
 
 ---
@@ -46,9 +46,9 @@
 ## 🔭 Currently Focusing On
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Web3%20%26%20Blockchain-8A2BE2?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" />
-  <img src="https://img.shields.io/badge/Building-Autonomous%20Hexapods-FF4500?style=for-the-badge&amp;logo=robot&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" />
-  <img src="https://img.shields.io/badge/Exploring-Edge%20Computing-00CED1?style=for-the-badge&amp;logo=edge&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" />
+  <img src="https://img.shields.io/badge/Learning-Web3%20%26%20Blockchain-8A2BE2?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" alt="Learning Web3 & Blockchain Badge" loading="lazy" />
+  <img src="https://img.shields.io/badge/Building-Autonomous%20Hexapods-FF4500?style=for-the-badge&amp;logo=robot&amp;logoColor=white" alt="Building Autonomous Hexapods Badge" loading="lazy" />
+  <img src="https://img.shields.io/badge/Exploring-Edge%20Computing-00CED1?style=for-the-badge&amp;logo=edge&amp;logoColor=white" alt="Exploring Edge Computing Badge" loading="lazy" />
 </div>
 
 ## 🚀 Corax CoLAB
@@ -65,8 +65,8 @@
   </p>
 
   <p align="center">
-    <a href="https://coraxcolab.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20Corax%20CoLAB-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" /></a>
-    <a href="https://cryptop.coraxcolab.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Crypto%20MCP%20Server-F7931A?style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Sponsor Me on GitHub" loading="lazy" /></a>
+    <a href="https://coraxcolab.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit%20Corax%20CoLAB-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Corax CoLAB Website" loading="lazy" /></a>
+    <a href="https://cryptop.coraxcolab.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Crypto%20MCP%20Server-F7931A?style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Crypto MCP Server" loading="lazy" /></a>
   </p>
 </div>
 
@@ -126,51 +126,51 @@
   <tr>
     <td width="30%"><b>Languages</b></td>
     <td width="70%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++ Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash Badge" loading="lazy" />
     </td>
   </tr>
   <tr>
     <td><b>AI & Machine Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit Badge" loading="lazy" />
     </td>
   </tr>
   <tr>
     <td><b>Hardware, IoT & Robotics</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&amp;logo=ros&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&amp;logo=platformio&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&amp;logo=ros&amp;logoColor=white" alt="ROS 2 Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white" alt="MQTT Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/PlatformIO-FE7A16?style=for-the-badge&amp;logo=platformio&amp;logoColor=white" alt="PlatformIO Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Espressif Badge" loading="lazy" />
     </td>
   </tr>
   <tr>
     <td><b>Tools & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="GCP Badge" loading="lazy" />
     </td>
   </tr>
   <tr>
     <td><b>Concepts & Domains</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&amp;logo=greensock&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
-      <img src="https://img.shields.io/badge/Robotics-FF5722?style=for-the-badge&amp;logo=robot&amp;logoColor=white" alt="Shield Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Edge%20AI-005C8A?style=for-the-badge&amp;logo=artificial-intelligence&amp;logoColor=white" alt="Edge AI Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/IoT-5A2B93?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="IoT Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/AgTech-2E8B57?style=for-the-badge&amp;logo=greensock&amp;logoColor=white" alt="AgTech Badge" loading="lazy" />
+      <img src="https://img.shields.io/badge/Robotics-FF5722?style=for-the-badge&amp;logo=robot&amp;logoColor=white" alt="Robotics Badge" loading="lazy" />
     </td>
   </tr>
 </table>
