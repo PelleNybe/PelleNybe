@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/PelleNybe/pellenybe.github.io/pull/33) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-2. 🎉 Merged PR [#122](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/122) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 💪 Opened PR [#33](https://github.com/PelleNybe/pellenybe.github.io/pull/33) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-4. 🎉 Merged PR [#43](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/43) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-5. 💪 Opened PR [#122](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/122) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 💪 Opened PR [#123](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/123) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#33](https://github.com/PelleNybe/pellenybe.github.io/pull/33) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+3. 🎉 Merged PR [#122](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/122) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#33](https://github.com/PelleNybe/pellenybe.github.io/pull/33) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+5. 🎉 Merged PR [#43](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/43) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
 <!--END_SECTION:activity-->
 
 ---
