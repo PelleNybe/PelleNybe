@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/PelleNybe/agent-commit-tracker/pull/4) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-2. 💪 Opened PR [#4](https://github.com/PelleNybe/agent-commit-tracker/pull/4) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-3. 🎉 Merged PR [#3](https://github.com/PelleNybe/agent-commit-tracker/pull/3) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-4. 💪 Opened PR [#3](https://github.com/PelleNybe/agent-commit-tracker/pull/3) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-5. 🎉 Merged PR [#2](https://github.com/PelleNybe/agent-commit-tracker/pull/2) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
+1. 🎉 Merged PR [#36](https://github.com/PelleNybe/pellenybe.github.io/pull/36) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+2. 💪 Opened PR [#36](https://github.com/PelleNybe/pellenybe.github.io/pull/36) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+3. 🎉 Merged PR [#35](https://github.com/PelleNybe/pellenybe.github.io/pull/35) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+4. 💪 Opened PR [#35](https://github.com/PelleNybe/pellenybe.github.io/pull/35) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+5. 🎉 Merged PR [#34](https://github.com/PelleNybe/pellenybe.github.io/pull/34) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
 <!--END_SECTION:activity-->
 
 ---
