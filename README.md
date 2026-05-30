@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/PelleNybe/pellenybe.github.io/pull/38) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-2. 💪 Opened PR [#38](https://github.com/PelleNybe/pellenybe.github.io/pull/38) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-3. 🎉 Merged PR [#14](https://github.com/PelleNybe/agent-commit-tracker/pull/14) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-4. 💪 Opened PR [#14](https://github.com/PelleNybe/agent-commit-tracker/pull/14) in [PelleNybe/agent-commit-tracker](https://github.com/PelleNybe/agent-commit-tracker)
-5. 🎉 Merged PR [#37](https://github.com/PelleNybe/pellenybe.github.io/pull/37) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+1. 💪 Opened PR [#3](https://github.com/PelleNybe/Corax-Crypto-by-CoraxCoLAB/pull/3) in [PelleNybe/Corax-Crypto-by-CoraxCoLAB](https://github.com/PelleNybe/Corax-Crypto-by-CoraxCoLAB)
+2. 🎉 Merged PR [#125](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/125) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 💪 Opened PR [#125](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/125) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 🎉 Merged PR [#39](https://github.com/PelleNybe/pellenybe.github.io/pull/39) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+5. 💪 Opened PR [#39](https://github.com/PelleNybe/pellenybe.github.io/pull/39) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
 <!--END_SECTION:activity-->
 
 ---
