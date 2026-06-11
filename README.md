@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/44) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-2. 💪 Opened PR [#44](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/44) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-3. 🎉 Merged PR [#39](https://github.com/PelleNybe/crypto-momentum-detector/pull/39) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 💪 Opened PR [#39](https://github.com/PelleNybe/crypto-momentum-detector/pull/39) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-5. 🎉 Merged PR [#3](https://github.com/PelleNybe/Corax-Crypto-by-CoraxCoLAB/pull/3) in [PelleNybe/Corax-Crypto-by-CoraxCoLAB](https://github.com/PelleNybe/Corax-Crypto-by-CoraxCoLAB)
+1. 💪 Opened PR [#45](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/45) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+2. 🎉 Merged PR [#41](https://github.com/PelleNybe/pellenybe.github.io/pull/41) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+3. 🎉 Merged PR [#139](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/139) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#41](https://github.com/PelleNybe/pellenybe.github.io/pull/41) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+5. 💪 Opened PR [#139](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/139) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
