@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/61) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-2. 🎉 Merged PR [#60](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/60) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-3. 🎉 Merged PR [#58](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/58) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-4. 🎉 Merged PR [#59](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/59) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-5. 💪 Opened PR [#61](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/61) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+1. 💪 Opened PR [#62](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/62) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+2. 🎉 Merged PR [#142](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/142) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#143](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/143) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#143](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/143) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 💪 Opened PR [#142](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/142) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
