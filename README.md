@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/144) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#144](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/144) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#62](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/62) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-4. 💪 Opened PR [#62](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/62) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-5. 🎉 Merged PR [#142](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/142) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#67](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/67) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+2. 💪 Opened PR [#67](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/67) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+3. 🎉 Merged PR [#66](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/66) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+4. 💪 Opened PR [#66](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/66) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+5. 🎉 Merged PR [#64](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/64) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
 <!--END_SECTION:activity-->
 
 ---
