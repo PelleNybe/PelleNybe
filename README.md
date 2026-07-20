@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/47) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-2. 🎉 Merged PR [#102](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/102) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-3. 💪 Opened PR [#102](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/102) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-4. 🎉 Merged PR [#45](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/45) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
-5. 💪 Opened PR [#45](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/45) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+1. 💪 Opened PR [#43](https://github.com/PelleNybe/pellenybe.github.io/pull/43) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+2. 🎉 Merged PR [#119](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/119) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 💪 Opened PR [#119](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/119) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+4. ❌ Closed PR [#105](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/105) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+5. 💪 Opened PR [#52](https://github.com/PelleNybe/crypto-momentum-detector/pull/52) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
 <!--END_SECTION:activity-->
 
 ---
