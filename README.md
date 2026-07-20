@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/PelleNybe/crypto-momentum-detector/pull/51) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-2. 💪 Opened PR [#51](https://github.com/PelleNybe/crypto-momentum-detector/pull/51) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-3. 🎉 Merged PR [#145](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/145) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#145](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/145) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#69](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/69) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+1. 💪 Opened PR [#43](https://github.com/PelleNybe/pellenybe.github.io/pull/43) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+2. 🎉 Merged PR [#119](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/119) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 💪 Opened PR [#119](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/119) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+4. ❌ Closed PR [#105](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/105) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+5. 💪 Opened PR [#52](https://github.com/PelleNybe/crypto-momentum-detector/pull/52) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
 <!--END_SECTION:activity-->
 
 ---
