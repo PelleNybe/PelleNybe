@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/PelleNybe/pellenybe.github.io/pull/46) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-2. 💪 Opened PR [#46](https://github.com/PelleNybe/pellenybe.github.io/pull/46) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-3. 🎉 Merged PR [#56](https://github.com/PelleNybe/crypto-momentum-detector/pull/56) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 🎉 Merged PR [#130](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/130) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-5. 🎉 Merged PR [#148](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/148) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#134](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/134) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+2. 💪 Opened PR [#134](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/134) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 🎉 Merged PR [#151](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/151) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#151](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/151) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#48](https://github.com/PelleNybe/pellenybe.github.io/pull/48) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
 <!--END_SECTION:activity-->
 
 ---
