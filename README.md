@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/PelleNybe/crypto-momentum-detector/pull/70) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-2. 🎉 Merged PR [#135](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/135) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-3. 🎉 Merged PR [#152](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/152) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#135](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/135) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-5. 💪 Opened PR [#70](https://github.com/PelleNybe/crypto-momentum-detector/pull/70) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+1. 💪 Opened PR [#154](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/154) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#153](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/153) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 💪 Opened PR [#153](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/153) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 🎉 Merged PR [#70](https://github.com/PelleNybe/crypto-momentum-detector/pull/70) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+5. 🎉 Merged PR [#135](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/135) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
 <!--END_SECTION:activity-->
 
 ---
