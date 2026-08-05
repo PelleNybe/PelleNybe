@@ -21,7 +21,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/2Faz2FksWz8v5A7oU/giphy.gif" width="200" align="center" alt="Robotics GIF" loading="lazy">
+  <img src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/robotics.gif" width="200" align="center" alt="Robotics GIF" loading="lazy">
   </p>
   <h3 align="center">
     <b>Architecting the Future at the Edge of Hardware & Software</b>
@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PelleNybe&amp;repo=Crypto-MCP-Server---by-Corax-CoLAB&amp;theme=radical&amp;show_icons=true" alt="Crypto MCP Server Repo"  loading="lazy" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PelleNybe&amp;repo=Crypto-MCP-Server---by-Corax-CoLAB&amp;theme=radical&amp;show_icons=true" alt="Crypto MCP Server Repo"  loading="lazy" />
   </a>
 </p>
 
@@ -182,32 +182,32 @@
 ## 📊 Analytics & Impact
 
 <p align="center">
-  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=PelleNybe&amp;theme=radical&amp;no-frame=true&amp;margin-w=15" alt="GitHub Trophies"  loading="lazy" />
+  <img src="https://github-profile-repo.vercel.app/?username=PelleNybe&amp;theme=radical&amp;no-frame=true&amp;margin-w=15" alt="GitHub Trophies"  loading="lazy" />
 </p>
 
 <table align="center" style="border:none; width: 100%;">
   <tr>
     <td align="center" width="50%" style="border:none;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" width="100%" alt="GitHub Stats"  loading="lazy" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=PelleNybe&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" width="100%" alt="GitHub Stats"  loading="lazy" />
       </picture>
     </td>
     <td align="center" width="50%" style="border:none;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true" width="100%" alt="Top Languages"  loading="lazy" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PelleNybe&amp;layout=compact&amp;theme=radical&amp;hide_border=true" width="100%" alt="Top Languages"  loading="lazy" />
       </picture>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" style="border:none;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true" width="100%" alt="GitHub Streak"  loading="lazy" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true">
+        <img src="https://streak-stats.demolab.com/?user=PelleNybe&amp;theme=radical&amp;hide_border=true" width="100%" alt="GitHub Streak"  loading="lazy" />
       </picture>
     </td>
     <td align="center" width="50%" style="border:none;">
