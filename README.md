@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#178](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/178) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#178](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/178) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#88](https://github.com/PelleNybe/crypto-momentum-detector/pull/88) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 💪 Opened PR [#88](https://github.com/PelleNybe/crypto-momentum-detector/pull/88) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-5. 🎉 Merged PR [#80](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot/pull/80) in [PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot](https://github.com/PelleNybe/CoraxCoLABs-GAP-GreenAutomatedPlatform---GAPbot)
+1. 🎉 Merged PR [#6](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/6) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+2. 💪 Opened PR [#6](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/6) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+3. 🎉 Merged PR [#5](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/5) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+4. 💪 Opened PR [#5](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/5) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+5. 🎉 Merged PR [#4](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/4) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
 <!--END_SECTION:activity-->
 
 ---
