@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/59) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-2. 🎉 Merged PR [#54](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/54) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-3. 🎉 Merged PR [#58](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/58) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-4. 🎉 Merged PR [#55](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/55) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-5. 🎉 Merged PR [#56](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/56) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+1. 💪 Opened PR [#180](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/180) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#59](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/59) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+3. 💪 Opened PR [#59](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/59) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+4. 🎉 Merged PR [#54](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/54) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+5. 🎉 Merged PR [#58](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/58) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
 <!--END_SECTION:activity-->
 
 ---
