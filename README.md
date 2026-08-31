@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/PelleNybe/pellenybe.github.io/pull/61) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-2. 💪 Opened PR [#61](https://github.com/PelleNybe/pellenybe.github.io/pull/61) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
-3. 🎉 Merged PR [#185](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/185) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#185](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/185) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#158](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/158) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+1. 🎉 Merged PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+2. 💪 Opened PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+3. 🎉 Merged PR [#63](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/63) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+4. 💪 Opened PR [#63](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/63) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+5. 🎉 Merged PR [#61](https://github.com/PelleNybe/pellenybe.github.io/pull/61) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
 <!--END_SECTION:activity-->
 
 ---
