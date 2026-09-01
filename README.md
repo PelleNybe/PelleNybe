@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-2. 💪 Opened PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-3. 🎉 Merged PR [#63](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/63) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-4. 💪 Opened PR [#63](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/63) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-5. 🎉 Merged PR [#61](https://github.com/PelleNybe/pellenybe.github.io/pull/61) in [PelleNybe/pellenybe.github.io](https://github.com/PelleNybe/pellenybe.github.io)
+1. 🎉 Merged PR [#65](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/65) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+2. 💪 Opened PR [#65](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/65) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+3. 🎉 Merged PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+4. 💪 Opened PR [#64](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/64) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+5. 🎉 Merged PR [#63](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/63) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
 <!--END_SECTION:activity-->
 
 ---
