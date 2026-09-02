@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/187) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#66](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/66) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-3. 💪 Opened PR [#66](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/66) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
-4. 💪 Opened PR [#187](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/187) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#65](https://github.com/PelleNybe/Sthlm-AI-agentcofounder/pull/65) in [PelleNybe/Sthlm-AI-agentcofounder](https://github.com/PelleNybe/Sthlm-AI-agentcofounder)
+1. 💪 Opened PR [#190](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/190) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#159](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/159) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 🎉 Merged PR [#189](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/189) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#189](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/189) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#98](https://github.com/PelleNybe/crypto-momentum-detector/pull/98) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
 <!--END_SECTION:activity-->
 
 ---
