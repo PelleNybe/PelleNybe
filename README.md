@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#202](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/202) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#200](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/200) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#201](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/201) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#201](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/201) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 💪 Opened PR [#200](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/200) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#124](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/124) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+2. 💪 Opened PR [#124](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/124) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+3. 🎉 Merged PR [#207](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/207) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 🎉 Merged PR [#206](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/206) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 💪 Opened PR [#207](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/207) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
