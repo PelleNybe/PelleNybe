@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#212](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/212) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#212](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/212) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 🎉 Merged PR [#211](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/211) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#211](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/211) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#210](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/210) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#214](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/214) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 🎉 Merged PR [#215](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/215) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 💪 Opened PR [#215](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/215) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#214](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/214) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#127](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/127) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
 <!--END_SECTION:activity-->
 
 ---
