@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#214](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/214) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#215](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/215) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 💪 Opened PR [#215](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/215) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 💪 Opened PR [#214](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/214) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 🎉 Merged PR [#127](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/127) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+1. 💪 Opened PR [#216](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/216) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#167](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/167) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
+3. 🎉 Merged PR [#128](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/128) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+4. 🎉 Merged PR [#101](https://github.com/PelleNybe/crypto-momentum-detector/pull/101) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+5. 💪 Opened PR [#101](https://github.com/PelleNybe/crypto-momentum-detector/pull/101) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
 <!--END_SECTION:activity-->
 
 ---
