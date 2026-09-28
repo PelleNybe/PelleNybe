@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#234](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/234) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 🎉 Merged PR [#114](https://github.com/PelleNybe/crypto-momentum-detector/pull/114) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-3. 💪 Opened PR [#114](https://github.com/PelleNybe/crypto-momentum-detector/pull/114) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 🎉 Merged PR [#233](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/233) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. 💪 Opened PR [#233](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/233) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#234](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/234) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#234](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/234) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#114](https://github.com/PelleNybe/crypto-momentum-detector/pull/114) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+4. 💪 Opened PR [#114](https://github.com/PelleNybe/crypto-momentum-detector/pull/114) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+5. 🎉 Merged PR [#233](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/233) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
