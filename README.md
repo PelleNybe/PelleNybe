@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/177) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
-2. 🎉 Merged PR [#244](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/244) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-3. 💪 Opened PR [#244](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/244) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-4. 🎉 Merged PR [#169](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/169) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
-5. 🎉 Merged PR [#176](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/176) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+1. 🎉 Merged PR [#180](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/180) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+2. 🎉 Merged PR [#178](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/178) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+3. 💪 Opened PR [#180](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/180) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+4. 🎉 Merged PR [#179](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/179) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
+5. 💪 Opened PR [#179](https://github.com/PelleNybe/freqtrade-cryptop-edition/pull/179) in [PelleNybe/freqtrade-cryptop-edition](https://github.com/PelleNybe/freqtrade-cryptop-edition)
 <!--END_SECTION:activity-->
 
 ---
