@@ -21,7 +21,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/PelleNybe/PelleNybe/main/robotics.gif" width="200" align="center" alt="Robotics GIF" loading="lazy">
+  <img src="robotics.gif" width="200" align="center" alt="Robotics GIF" loading="lazy">
   </p>
   <h3 align="center">
     <b>Architecting the Future at the Edge of Hardware & Software</b>
