@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#254](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/254) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-2. 💪 Opened PR [#183](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/183) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-3. 💪 Opened PR [#115](https://github.com/PelleNybe/crypto-momentum-detector/pull/115) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-4. 🎉 Merged PR [#252](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/252) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
-5. ❌ Closed PR [#251](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/251) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+1. 🎉 Merged PR [#119](https://github.com/PelleNybe/crypto-momentum-detector/pull/119) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+2. 💪 Opened PR [#119](https://github.com/PelleNybe/crypto-momentum-detector/pull/119) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+3. 🎉 Merged PR [#118](https://github.com/PelleNybe/crypto-momentum-detector/pull/118) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+4. 💪 Opened PR [#118](https://github.com/PelleNybe/crypto-momentum-detector/pull/118) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+5. 🎉 Merged PR [#117](https://github.com/PelleNybe/crypto-momentum-detector/pull/117) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
 <!--END_SECTION:activity-->
 
 ---
