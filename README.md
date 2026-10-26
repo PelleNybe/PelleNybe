@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/186) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-2. 💪 Opened PR [#186](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/186) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-3. 🎉 Merged PR [#185](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/185) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-4. 💪 Opened PR [#185](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller/pull/185) in [PelleNybe/CryptoPsCryptoFortuneTeller](https://github.com/PelleNybe/CryptoPsCryptoFortuneTeller)
-5. 🎉 Merged PR [#120](https://github.com/PelleNybe/crypto-momentum-detector/pull/120) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+1. 🎉 Merged PR [#258](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/258) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+2. 💪 Opened PR [#258](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/258) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+3. 🎉 Merged PR [#257](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/257) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+4. 💪 Opened PR [#257](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/257) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
+5. 🎉 Merged PR [#255](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB/pull/255) in [PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB](https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB)
 <!--END_SECTION:activity-->
 
 ---
