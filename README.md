@@ -245,11 +245,11 @@
 
 ## ⚡ Recent Pulses
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Q-Aegis v0.5.0 — Security Hardening, Concurrency Safety & 11x–16x Faster QAOA](https://github.com/PelleNybe/qaegis/releases/tag/v0.5.0) in [PelleNybe/qaegis](https://github.com/PelleNybe/qaegis)
-2. 🚀 Published release [v0.4.0 Production Hardening & Observability Deliverables](https://github.com/PelleNybe/qaegis/releases/tag/v0.4.0) in [PelleNybe/qaegis](https://github.com/PelleNybe/qaegis)
-3. 🚀 Published release [v0.1.0 — Initial Release: PQC AST Scanner, CycloneDX 1.6 CBOM & GitHub Action](https://github.com/PelleNybe/cbom-guard/releases/tag/v0.1.0) in [PelleNybe/cbom-guard](https://github.com/PelleNybe/cbom-guard)
-4. 🎉 Merged PR [#121](https://github.com/PelleNybe/crypto-momentum-detector/pull/121) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
-5. 💪 Opened PR [#121](https://github.com/PelleNybe/crypto-momentum-detector/pull/121) in [PelleNybe/crypto-momentum-detector](https://github.com/PelleNybe/crypto-momentum-detector)
+1. ❌ Closed PR [#5](https://github.com/PelleNybe/Post-Pilot/pull/5) in [PelleNybe/Post-Pilot](https://github.com/PelleNybe/Post-Pilot)
+2. ❌ Closed PR [#7](https://github.com/PelleNybe/Post-Pilot/pull/7) in [PelleNybe/Post-Pilot](https://github.com/PelleNybe/Post-Pilot)
+3. ❌ Closed PR [#2](https://github.com/PelleNybe/Post-Pilot/pull/2) in [PelleNybe/Post-Pilot](https://github.com/PelleNybe/Post-Pilot)
+4. ❌ Closed PR [#4](https://github.com/PelleNybe/Post-Pilot/pull/4) in [PelleNybe/Post-Pilot](https://github.com/PelleNybe/Post-Pilot)
+5. ❌ Closed PR [#3](https://github.com/PelleNybe/Post-Pilot/pull/3) in [PelleNybe/Post-Pilot](https://github.com/PelleNybe/Post-Pilot)
 <!--END_SECTION:activity-->
 
 ---
